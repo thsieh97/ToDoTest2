@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To Do Test 2</string>
+    <string name="task_Name_view">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_task_details">Task Details</string>
+
+</resources>
